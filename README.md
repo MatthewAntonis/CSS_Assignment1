@@ -8,9 +8,9 @@
 
 3.) Incorporates a background image or gradient to enhance the visual appearance of the interface. 
 
-4.) Incorporates colour while still maintaining readability/accessibility 
+4.) Incorporates colour while still maintaining readability/accessibility.
 
-5.) incorporates two custom web fonts and appropriate font-sizing and units 
+5.) incorporates two custom web fonts and appropriate font-sizing and units.
 
 6.) Demonstrates understanding of the box model by adding padding and margins to give a sense of space between elements. 
 
