@@ -17,7 +17,8 @@
 7.) Incorporates at least one creative element (hover effect, image filter, animation, etc.). 
 
 Notes: 
-- Making the website responsive is not necessary 
+- Making the website responsive is not necessary
+- Changes to the HTML were either minimal or none
 - Created using Chrome
 
 ### Assignment Due Date: June 21st, 2023
