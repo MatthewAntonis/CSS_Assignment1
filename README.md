@@ -2,11 +2,11 @@
  
 ## To Complete This Assignment: 
 
-1.) includes a CSS file that contains valid, well-formatted, error-free CSS and helpful comments where applicable.
+1.) Includes a CSS file that contains valid, well-formatted, error-free CSS and helpful comments where applicable.
 
-2.) includes at least one example of a type selector, a class selector, an id selector, an attribute selector, a pseudo-class selector or pseudo-element selector, a descendant combinator, a child combinator, a direct sibling combinator, and a general sibling combinator. Include comments documenting each example. 
+2.) Includes at least one example of a type selector, a class selector, an id selector, an attribute selector, a pseudo-class selector or pseudo-element selector, a descendant combinator, a child combinator, a direct sibling combinator, and a general sibling combinator. Include comments documenting each example. 
 
-3.) incorporates a background image or gradient to enhance the visual appearance of the interface. 
+3.) Incorporates a background image or gradient to enhance the visual appearance of the interface. 
 
 4.) Incorporates colour while still maintaining readability/accessibility 
 
